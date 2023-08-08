@@ -1,0 +1,16 @@
+html, body {
+    height:100%;
+    
+}
+.home {
+  background: url('../images/hero/bg_2.png') !important;
+
+  /* Full height */
+  height: 100%;
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}

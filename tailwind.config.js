@@ -27,9 +27,9 @@ module.exports = {
         black: "#212b36",
         dark: "#090E34",
         "dark-700": "#090e34b3",
-        primary: "#3056D3",
-        secondary: "#13C296",
-        "body-color": "#637381",
+        primary: "#016098",
+        secondary: "#f37125",
+        "body-color": "#016098",
         warning: "#FBBF24",
       },
       boxShadow: {
